@@ -1,0 +1,9 @@
+build/
+bin/
+.DS_Store
+*.token
+config.local.json
+.gemini/
+soundbrick
+*.exe
+data/settings.json
